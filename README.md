@@ -1,6 +1,5 @@
 # shl_award_qualify_GUI
 
-
 This project is a **fork** of [shl_award_qualify](https://gitlab.com/Daerandin/shl_award_qualify) by **Daniel Jenssen**.  
 It adds a **graphical user interface (GUI)** and an application icon to the original tool, making it easier to select and unlock multiple awards simultaneously.
 
@@ -20,6 +19,7 @@ For users who prefer the command line, the **console version** (`shl_award_conso
 - [Releases](#releases)
 - [Disclaimer](#disclaimer)
 - [License](#license)
+- [Changelog](#changelog)
 
 ---
 
@@ -62,6 +62,7 @@ project/
 │   └── icon.ico             # Application icon
 ├── Makefile                 # Build script
 ├── LICENSE                  # GPLv3 license
+├── CHANGELOG.md             # Version history
 └── README.md                # This file
 ```
 
@@ -132,11 +133,13 @@ The compiled executables (`shl_award_gui.exe` and `shl_award_console.exe`) will 
 
 ## Releases
 
-Pre‑built binaries are available in the **Releases** section:
+Pre‑built binaries are available in the **[Releases](https://github.com/rezashams991/shl_award_qualify_GUI/releases)** section:
 
-- `shl_award_gui.exe` – GUI version with icon.
-- `shl_award_console.exe` – Console version (original functionality).
-- `SourceCode.zip` – Full source code for review and custom builds.
+| File | Description |
+|------|-------------|
+| [`shl_award_gui.exe`](https://github.com/rezashams991/shl_award_qualify_GUI/releases/latest) | GUI version with custom icon |
+| [`shl_award_console.exe`](https://github.com/rezashams991/shl_award_qualify_GUI/releases/latest) | Console version (original functionality) |
+| [`SourceCode.zip`](https://github.com/rezashams991/shl_award_qualify_GUI/releases/latest) | Full source code for review and custom builds |
 
 ---
 
@@ -152,20 +155,25 @@ It modifies the memory of the game *Stronghold Legends* (Steam Edition) to unloc
 
 By using this software, you acknowledge that you understand and accept these terms.
 
-
 ---
 
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**.  
-See the `LICENSE` file for the full text.
+See the [`LICENSE`](https://github.com/rezashams991/shl_award_qualify_GUI/blob/main/LICENSE) file for the full text.
 
 - Original code copyright © 2023 **Daniel Jenssen**.
 - Modifications (GUI, icon, restructuring) copyright © 2026 **Reza Shams** – released under the same GPLv3 terms.
 
 ---
 
-Feel free to open an issue for suggestions, bug reports, or contributions.
+## Changelog
+
+All notable changes to this project are documented in the [`CHANGELOG.md`](https://github.com/rezashams991/shl_award_qualify_GUI/blob/main/CHANGELOG.md) file.
+
+---
+
+Feel free to open an [issue](https://github.com/rezashams991/shl_award_qualify_GUI/issues) for suggestions, bug reports, or contributions.
 
 ---
 
