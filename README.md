@@ -152,6 +152,7 @@ It modifies the memory of the game *Stronghold Legends* (Steam Edition) to unloc
 
 By using this software, you acknowledge that you understand and accept these terms.
 
+
 ---
 
 ## License
