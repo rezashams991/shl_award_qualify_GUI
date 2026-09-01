@@ -47,7 +47,7 @@ For users who prefer the command line, the **console version** (`shl_award_conso
 ## File Structure
 
 ```
-project/
+shl_award_qualify_GUI/
 ├── src/
 │   ├── main.c               # Original console version
 │   ├── gui_main.c           # GUI implementation (Win32 API)
